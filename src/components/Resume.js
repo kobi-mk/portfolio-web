@@ -24,7 +24,7 @@ export default function Resume() {
       </div>
       <div className="md:w-1/2 flex flex-col justify-center items-center">
         <h1 className="text-4xl border-b-4 border-primary mb-5 w-[130px] font-bold">Resume</h1>
-        <p className="pb-5 text-center">You can view my resume. <a className="btn btn-primary px-2" href="#">Download</a></p>
+        <p className="pb-5 text-center">You can view my resume. <a className="btn btn-primary px-2" href="/">Download</a></p>
       </div>
     </section>
   );
