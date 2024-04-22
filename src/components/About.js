@@ -24,7 +24,7 @@ export default function About() {
     <section className="container mx-auto px-5 " id="about">
       <div className="flex flex-col md:flex-row bg-secondary">
         <div className="md:w-1/2 py-5">
-          <img src={AboutImg} />
+          <img src={AboutImg} alt='abt'/>
         </div>
         <div className="md:w-1/2 flex justify-center">
           <div className="flex flex-col justify-center text-white">
