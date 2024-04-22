@@ -21,7 +21,7 @@ export default function Hero(){
 }*/
 
 import HeroImg from '../assets/hero.png';
-import { AiOutlineGithub, AiOutlineYoutube, AiOutlineLinkedin, AiOutlineMedium } from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineYoutube, AiOutlineLinkedin } from "react-icons/ai";
 
 export default function Hero() {
   return (
