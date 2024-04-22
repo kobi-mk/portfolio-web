@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       borderColor:{
         'primary' : 'rgb(85, 87, 227)',
-        'secondary' : '#2b2d77'
+        'secondary' : '#2b2d77' 
       }
     },
     fontFamily : {
