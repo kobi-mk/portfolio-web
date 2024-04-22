@@ -39,7 +39,7 @@ export default function Header() {
 
   return (
     <header className="container mx-auto px-5 py-2 flex justify-between items-center bg-secondary">
-      <a className="font-bold text-white text-2xl font-header-font">VMKovarthan</a>
+      <a href="/" className="font-bold text-white text-2xl font-header-font">VMKovarthan</a>
 
       <nav className="hidden md:flex items-center">
         <ul className="flex space-x-4 text-white">
