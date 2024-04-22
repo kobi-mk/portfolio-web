@@ -33,11 +33,11 @@ export default function Hero() {
           <p className="text-2xl">I am a Full-stack developer</p>
         </h1>
         <div className="flex py-10 space-x-4">
-          <a className="hover:text-white" href="#"><AiOutlineLinkedin size={40} /></a>
-          <a className="hover:text-white" href="#"><AiOutlineGithub size={40} /></a>
+          <a className="hover:text-white" ><AiOutlineLinkedin size={40} /></a>
+          <a className="hover:text-white" ><AiOutlineGithub size={40} /></a>
           {/* Optional: Uncomment if you want to include Medium link */}
           {/* <a className="pr-5 hover:text-white" href="#"><AiOutlineMedium size={40} /></a> */}
-          <a className="hover:text-white" href="#"><AiOutlineYoutube size={40} /></a>
+          <a className="hover:text-white" ><AiOutlineYoutube size={40} /></a>
         </div>
       </div>
       <img className="md:w-1/3 object-cover" src={HeroImg} alt="Hero Image" />
